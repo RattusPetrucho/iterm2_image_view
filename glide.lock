@@ -1,0 +1,11 @@
+hash: 7d8fc9aab90030ac393ede2e41f420cc4b8f0ae4e8443cf5a6699d356ba21214
+updated: 2017-09-05T22:24:45.478569203+03:00
+imports:
+- name: github.com/eiannone/keyboard
+  version: a263abc743117abfada48e90372473b551115a7f
+- name: golang.org/x/sys
+  version: 7ddbeae9ae08c6a06a59597f0c9edbc5ff2444ce
+  subpackages:
+  - unix
+  - windows
+testImports: []

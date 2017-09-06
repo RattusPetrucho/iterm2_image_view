@@ -1,0 +1,3 @@
+package: github.com/RattusPetrucho/iterm2_image_view
+import:
+- package: github.com/eiannone/keyboard
